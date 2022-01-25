@@ -12,3 +12,4 @@
   - git clone "..."                 clona um repositório remoto para nossa máquina
   - git add .                       adiciona todos os arquivos para serem traqueados 
   - git commit -m "..."             "registra" as alterações feitas nos arquivos traqueados
+  - git push                        envia os commits para o repostitório remoto
