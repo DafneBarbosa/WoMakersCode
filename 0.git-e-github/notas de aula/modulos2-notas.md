@@ -13,3 +13,4 @@
   - git add .                       adiciona todos os arquivos para serem traqueados 
   - git commit -m "..."             "registra" as alterações feitas nos arquivos traqueados
   - git push                        envia os commits para o repostitório remoto
+  - git pull                        envia as atualizações do github para nossa máquina
