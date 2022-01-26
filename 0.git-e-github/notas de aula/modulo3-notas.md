@@ -8,3 +8,8 @@
 
 ### Trocando de branch
     comando: git checkout "nome da branch que quero ir"
+
+### Fazendo merge local
+    1 - Ir para a branch main (git checkout main)
+    2 - Atualizar com o github (git pull)
+    3 - Fazer o merge (git merge "branch que eu quero fazer merge")
