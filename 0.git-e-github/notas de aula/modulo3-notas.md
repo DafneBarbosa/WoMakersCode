@@ -2,3 +2,9 @@
 
 ### nota 1 - Criando novas branchs
     comando: git checkout -b "nome da nova branch"
+
+### Verificando quantas branchs temos
+    comando: git branch
+
+### Trocando de branch
+    comando: git checkout "nome da branch que quero ir"
