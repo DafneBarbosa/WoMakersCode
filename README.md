@@ -11,7 +11,6 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## About The Bootcamp
----
 150 hours of carrer and tecnical capacitation<br>
 Link:  <a>https://womakerscode.org/bootcamp-java</a><br>
 Topics covered: programming logic, software architecture, data structures and algorithms, APIs, testing, problem resolutions, agile methodology, GitHub, cloud computing and soft skills
@@ -19,7 +18,6 @@ Topics covered: programming logic, software architecture, data structures and al
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Bootcamp Contents
----
 - <h3> Module 0 - Git and GitHub</h3>
     Basic comands, working with repositories, creating new branchs, changing branchs, merging branchs, forking repositories, fetching and keeping repositories atualized, pull requests, GitHub Projects and issues.
     <p> </p>
@@ -37,7 +35,6 @@ Topics covered: programming logic, software architecture, data structures and al
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Author
----
 <div style="display: flex; align-items: center;" >
     <a href="https://github.com/DafneBarbosa">
         <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/71271402?s=400&u=fbd3bddd0be9c7d3bfaacc0a7c9ee878d1825c91&v=4" width="100px;" alt="Dafne Barbosa"/> 
@@ -55,7 +52,6 @@ Topics covered: programming logic, software architecture, data structures and al
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## License
----
 This project is under the license [MIT](./LICENSE).
 
 
